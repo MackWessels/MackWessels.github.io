@@ -31,22 +31,22 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Importance of Ethics](pdf/Mack_Ethics_Importance.pdf)
+### [Importance of Ethics in Computer Software Programming](pdf/Mack_Ethics_Importance.pdf)
 
 -   **Class: Object-Oriented Programming**  
 -   **Grade: A**
 
-### [Paper 2 Title](/pdf/Mack_Intellectual_Property.pdf)
+### [Attitudes on the Intellectual Property Ownership of Software and Computer Programming](/pdf/Mack_Intellectual_Property.pdf)
 
 -   **Class: Applied Networking** 
 -   **Grade: A**
 
-### [Paper 3 Title](/pdf/Mack_Ethics_Software.pdf)
+### [Ethics for Computer Software Programming](/pdf/Mack_Ethics_Software.pdf)
 
 -   **Class: Data Structure Analysis** 
 -   **Grade: A**
 
-### [Paper 4 Title](/pdf/Mack_Ethics_Copyrights.pdf)
+### [Ethics for Copyrights in Software Programming](/pdf/Mack_Ethics_Copyrights.pdf)
 
 -   **Class: Algorithms** 
 -   **Grade: A**
