@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:mwessels@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [5k Charity Run Website | CSCI 334](funrun_project)
+### [5k Charity Run Website | CSCI 334](funrun_project.md)
 
 ![funrun front page](images/funrun_fig1.png)
 
