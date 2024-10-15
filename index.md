@@ -64,7 +64,8 @@ Presentations
 
 ### [CSCI 325 Group Project - Sudoku](https://www.youtube.com/watch?v=TI5XosF6UNU)
 
-- **Class: Object-Oriented Programming** 
+- **Class: Object-Oriented Programming**
+- **Group: Mack W., Matt W., Robert S.**
 - **Grade: A**
 
 ---
