@@ -36,19 +36,19 @@ Ethics Papers
 -   **Class: Object-Oriented Programming**  
 -   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Paper 2 Title](/pdf/Mack_Intellectual_Property.pdf)
 
--   **Class: d** 
+-   **Class: Applied Networking** 
 -   **Grade: A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Paper 3 Title](/pdf/Mack_Ethics_Software.pdf)
 
--   **Class: d** 
+-   **Class: Data Structure Analysis** 
 -   **Grade: A**
 
-### [Paper 4 Title](/pdf/sample_presentation.pdf)
+### [Paper 4 Title](/pdf/Mack_Ethics_Copyrights.pdf)
 
--   **Class: ** 
+-   **Class: Algorithms** 
 -   **Grade: A**
 
 ---
