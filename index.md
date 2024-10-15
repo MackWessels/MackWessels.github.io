@@ -62,7 +62,7 @@ Presentations
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](https://www.youtube.com/watch?v=TI5XosF6UNU)
 
 - **Class:** 
 - **Grade:**
