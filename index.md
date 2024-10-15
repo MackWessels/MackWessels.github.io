@@ -62,10 +62,10 @@ Presentations
 - **Grade:**
 
 
-### [Presentation 2 Title](https://www.youtube.com/watch?v=TI5XosF6UNU)
+### [CSCI 325 Group Project - Sudoku](https://www.youtube.com/watch?v=TI5XosF6UNU)
 
-- **Class:** 
-- **Grade:**
+- **Class: Object-Oriented Programming** 
+- **Grade: A**
 
 ---
 
