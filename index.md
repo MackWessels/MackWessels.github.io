@@ -31,20 +31,25 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Importance of Ethics in Computer Software Programming](/pdf/Importance of Ethics in Computer Software Programming.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: Object-Oriented Programming**  
+-   **Grade: A**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: d** 
+-   **Grade: A**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: d** 
+-   **Grade: A**
+
+### [Paper 4 Title](/pdf/sample_presentation.pdf)
+
+-   **Class: ** 
+-   **Grade: A**
 
 ---
 
