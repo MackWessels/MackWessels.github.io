@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Importance of Ethics](/pdf/sample_presentation.pdf)
+### [Importance of Ethics](pdf/Mack Ethics Copyrights in Programming.pdf)
 
 -   **Class: Object-Oriented Programming**  
 -   **Grade: A**
