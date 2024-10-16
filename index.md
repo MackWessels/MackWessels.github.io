@@ -56,7 +56,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [The Story of Kevin Mitnick](pdf/The_Story_of_Kevin_Mitnick.pptx)
+### [The Story of Kevin Mitnick](pdf/The_Story_of_Kevin_Mitnick.pdf)
 
 - **Class: Principles of Cybersecurity** 
 - **Grade: A**
