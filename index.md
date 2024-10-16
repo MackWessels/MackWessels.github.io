@@ -56,10 +56,10 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [The Story of Kevin Mitnick](pdf/The_Story_of_Kevin_Mitnick.pptx)
 
-- **Class:** 
-- **Grade:**
+- **Class: Principles of Cybersecurity** 
+- **Grade: A**
 
 
 ### [CSCI 325 Group Project - Sudoku](https://www.youtube.com/watch?v=TI5XosF6UNU)
