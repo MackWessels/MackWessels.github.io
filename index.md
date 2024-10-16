@@ -12,7 +12,7 @@ Programming Projects
 ![funrun front page](images/funrun_fig1.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Project 2 Title | CSCI 315](project1.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
