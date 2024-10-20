@@ -3,10 +3,10 @@
 5k Charity Run Website
 ===============
 
--   **Class:User-Interface Programming** 
+-   **Class: User-Interface Programming** 
 -   **Group: Chris K., Mack W., Robert S.** 
--   **Grade:A** 
--   **Language(s):Ruby and Ruby on Rails** 
+-   **Grade: A** 
+-   **Language(s): Ruby and Ruby on Rails** 
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/rbsquires/BC_race_app.git/)  
     (Please [email me](mailto:mwessels@csustudent.net?subject=GitHub%20Access) to request access.)
 
