@@ -14,10 +14,10 @@ Programming Projects
 ---
 ### [Sudoku | CSCI 325](sudoku_project.md)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/sudoku_fig1.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Project 3 Title | CSCI 325](scheduling_project.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
