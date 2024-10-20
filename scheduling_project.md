@@ -6,7 +6,8 @@ Process Scheduling Algorithm Implementation
 -   **Class: Operating Systems** 
 -   **Grade: A** 
 -   **Language(s): C** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/MackWessels/Process-Scheduling-Algorithm/tree/main/posix)  
+-   **Source Code Repository:** [Process-Scheduling-Algorithm
+](https://github.com/MackWessels/Process-Scheduling-Algorithm/tree/main/posix)  
     (Please [email me](mailto:mwessels@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
