@@ -17,9 +17,9 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/sudoku_fig1.png)
 
 ---
-### [Project 3 Title | CSCI 325](scheduling_project.md)
+### [Scheduling Algorithms  | CSCI 431](scheduling_project.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/schedule_fig1.JPG)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
