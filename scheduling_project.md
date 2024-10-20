@@ -49,7 +49,7 @@ Upon running the program, it processes tasks based on the selected algorithm and
 In this screenshot, the terminal output shows the successful compilation and execution of a process scheduling program using multiple algorithms (FCFS, SJF, RR, Priority with RR). The user first executes the command make all, which compiles all necessary files for different scheduling algorithms using gcc. After compilation, the program is run with the fcfs (First-Come, First-Served) algorithm on the input task schedule (schedule.txt). The output displays each task being executed, followed by performance metrics such as average turnaround time, waiting time, and response time.
 
 ![screenshot](images/schedule_fig1.JPG)  
-Fig 1. The launch screen
+Fig 1. first come first serve in action
 
 In this project, the process scheduler reads tasks from the schedule.txt file, which defines tasks in the format [task name], [priority], [CPU burst]. An example schedule includes the following tasks:
 
