@@ -7,6 +7,11 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:mwessels@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
+### [Project 4 Title | CSCI 332](project1)
+
+![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+
+---
 ### [5k Charity Run Website | CSCI 334](funrun_project.md)
 
 ![funrun front page](images/funrun_fig1.png)
@@ -20,11 +25,6 @@ Programming Projects
 ### [Scheduling Algorithms  | CSCI 431](scheduling_project.md)
 
 ![Project 3 Thumbnail Name](images/schedule_fig1.JPG)
-
----
-### [Project 4 Title | CSCI 332](project1)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 
