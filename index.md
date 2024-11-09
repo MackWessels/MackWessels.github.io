@@ -7,8 +7,24 @@ I'm a software developer committed to expanding my skill set one language at a t
 My coding journey began as a Computer Science student eager to create meaningful and practical software. Owning an iPhone sparked my interest in iOS development, motivating me to teach myself Swift and work toward building my own app. While I enjoy programming in C++ and Java, I've developed a passion for using Swift and SwiftUI, especially for Apple platforms. As I continue to grow as a developer, I aim to deepen my expertise in iOS, iPadOS, and macOS development. My upcoming side projects include exploring Full-Stack Development with Swift using Vapor and delving into embedded Swift programming.
 </details>
 <br>
+## Languages and Frameworks
 
-Programming Projects
+**Languages:**  
+C++, Swift, Java, HTML, CSS, JavaScript, Ruby, PHP, Python
+
+**Frameworks:**  
+React, Node.js, Ruby on Rails, Heroku, AWS, Oracle, MySQL
+
+---
+
+## Tools
+
+**Operating Systems:**  
+Windows, macOS, Linux
+
+**IDEs and Source Control:**  
+Visual Studio Code, Visual Studio, IntelliJ, Git, GitHub, Homebrew, LaTeX
+
 --------------------
 
 *For access to my private project repositories, please [email me](mailto:mwessels@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
