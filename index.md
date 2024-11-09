@@ -1,5 +1,11 @@
 Portfolio
 =========
+I'm a software developer committed to expanding my skill set one language at a time and refining my craft. This portfolio showcases some of my favorite projects completed while earning my B.S. in Computer Science. As a meticulous and driven professional, I'm pursuing a career in software engineering, working with languages like Swift, C++, and Java.
+
+<details>
+  <summary>My Coding Journey</summary>
+My coding journey began as a Computer Science student eager to create meaningful and practical software. Owning an iPhone sparked my interest in iOS development, motivating me to teach myself Swift and work toward building my own app. While I enjoy programming in C++ and Java, I've developed a passion for using Swift and SwiftUI, especially for Apple platforms. As I continue to grow as a developer, I aim to deepen my expertise in iOS, iPadOS, and macOS development. My upcoming side projects include exploring Full-Stack Development with Swift using Vapor and delving into embedded Swift programming.
+</details>
 
 Programming Projects
 --------------------
