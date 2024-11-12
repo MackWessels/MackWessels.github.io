@@ -30,9 +30,9 @@ Visual Studio Code, Visual Studio, IntelliJ, Git, GitHub, Homebrew, LaTeX
 *For access to my private project repositories, please [email me](mailto:mwessels@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [HelixHunt | CSCI 495](helixhunt_project.md)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![helixhunt front page](images/helix_fig1.png)
 
 ---
 ### [5k Charity Run Website | CSCI 334](funrun_project.md)
