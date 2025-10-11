@@ -1,18 +1,19 @@
 # Site settings
 # These are used to personalize your new site.
-title: Mack Wessels # your name here
-logo: "/images/mack_picture.jpg?raw=true" # your photo (or logo) here
+title: Mack Wessels
+logo: "/images/mack_picture.jpg?raw=true"
 description: > # your text below (remove <br /> elements if you don't need line breaks)
-  CSCI 496: Senior Portfolio<br />
-  In partial fulfillment of the requirements for the degree of
-  Bachelor of Science in Computer-Science (class of 2024)
+  Software Developer Portfolio<br />
+  Projects in systems programming, web development, and game design.<br />
+  Skills: C, C++, Java, SQL, React, Godot; Linux-focused development.
   <br /><br />
   <a href="/pdf/MW_Resume.pdf">View My Resume</a>
   <br />
 repository: "csci-csu/csci-portfolio"
-github_username:  MackWessels # update with your username
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+github_username: MackWessels
+google_analytics: UA-000000-0
 
 # Build setting
 theme: jekyll-theme-minimal
+
 
