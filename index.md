@@ -1,19 +1,19 @@
 Portfolio
 =========
-I'm a software developer committed to expanding my skill set one language at a time and refining my craft. This portfolio showcases some of my favorite projects completed while earning my B.S. in Computer Science. As a meticulous and driven professional, I'm pursuing a career in software engineering, working with languages like Swift, C++, and Java.
+I’m a software developer focused on building reliable, creative, and user-centered solutions. This portfolio highlights projects completed during my B.S. in Computer Science and beyond, showcasing work in systems programming, full-stack development, and game design. I bring experience with C, C++, Java, SQL, React, and Godot, and I’m eager to continue applying these skills in software engineering roles.
 
 <details>
   <summary>My Coding Journey</summary>
-My coding journey began as a Computer Science student eager to create meaningful and practical software. Owning an iPhone sparked my interest in iOS development, motivating me to teach myself Swift and work toward building my own app. While I enjoy programming in C++ and Java, I've developed a passion for using Swift and SwiftUI, especially for Apple platforms. As I continue to grow as a developer, I aim to deepen my expertise in iOS, iPadOS, and macOS development. My upcoming side projects include exploring Full-Stack Development with Swift using Vapor and delving into embedded Swift programming.
+My journey began as a Computer Science student eager to understand how technology works at every level, from low-level systems to user-facing applications. Through coursework and personal projects, I developed strong skills in problem-solving, algorithm design, and collaborative development. Along the way, I explored languages like C++, Java, and C, while also branching into modern frameworks like React and game engines like Godot. As I continue to grow as a developer, I aim to deepen my expertise in both software engineering and systems programming, while taking on projects that challenge me to learn new tools and approaches.
 </details>
 <br>
 
 
 **Languages:**  
-C++, Swift, Java, HTML, CSS, JavaScript, Ruby, PHP, Python
+C, C++, Java, Swift, Python, SQL, JavaScript, HTML, CSS, Ruby, PHP
 
 **Frameworks:**  
-React, Node.js, Ruby on Rails, Heroku, AWS, Oracle, MySQL
+React, Node.js, Ruby on Rails, Godot, MySQL, Oracle, AWS, Heroku, Linux
 
 ---
 
