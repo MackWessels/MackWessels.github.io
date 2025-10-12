@@ -35,9 +35,9 @@ Visual Studio Code, Visual Studio, IntelliJ, Git, GitHub, Homebrew, LaTeX
 ![helixhunt front page](images/helix_fig1.png)
 
 ---
-### [5k Charity Run Website | CSCI 334](funrun_project.md)
+### [Tower Defense Game | Personal Project](towerdefense_project.md)
 
-![funrun front page](images/funrun_fig1.png)
+![tower defense screenshot](images/towerdefense_fig1.png)
 
 ---
 ### [Sudoku | CSCI 325](sudoku_project.md)
