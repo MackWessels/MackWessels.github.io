@@ -47,4 +47,4 @@ This 3D tower defense game was developed in **Godot** using **GDScript** and cus
 
 ---
 
-<p style="font-size:11px">For repository access, please [email me](mailto:mwessels@csustudent.net?subject=TowerDefense%20Repo%20Access).</p>
+<p style="font-size:11px">For repository access, please [email me](mailto:mackwessels@gmail.com?subject=TowerDefense%20Repo%20Access).</p>
