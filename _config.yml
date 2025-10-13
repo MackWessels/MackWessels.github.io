@@ -9,6 +9,8 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br /><br />
   <a href="/pdf/MW_Resume.pdf">View My Resume</a>
   <br />
+  <a href="mailto:mackwessels@gmail.com?subject=Portfolio%20Inquiry">Email Me</a>
+  <br />
 repository: "csci-csu/csci-portfolio"
 github_username: MackWessels
 google_analytics: UA-000000-0
