@@ -27,7 +27,7 @@ Visual Studio Code, Visual Studio, IntelliJ, Git, GitHub, Homebrew, LaTeX
 
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:mwessels@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:mackwessels@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [HelixHunt | CSCI 495](helixhunt_project.md)
