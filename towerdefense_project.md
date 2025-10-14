@@ -6,7 +6,7 @@
 ---
 
 ## Overview
-This 3D tower defense game was developed in **Godot** using **GDScript** and custom assets modeled in **Blender**. The project explores real-time strategy mechanics, pathfinding, and resource management in a dynamic, procedurally generated environment. It’s my most ambitious and polished project, blending algorithmic problem-solving with game design.
+This 3D tower defense game was developed in **Godot** using **GDScript** and custom assets modeled in **Blender**. The project explores real-time strategy mechanics, pathfinding, and resource management in a dynamic, procedurally generated environment. It’s my most ambitious project, blending algorithmic problem-solving with game design.
 
 ---
 
