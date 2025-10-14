@@ -27,7 +27,6 @@ This 3D tower defense game was developed in **Godot** using **GDScript** and cus
 - **Language:** GDScript  
 - **3D Assets:** Blender (models, towers, enemies)  
 - **Version Control:** Git + GitHub  
-- **Other Tools:** LaTeX (design docs), VS Code  
 
 ---
 
