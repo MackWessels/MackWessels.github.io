@@ -17,16 +17,6 @@ React, Node.js, Ruby on Rails, MySQL, Oracle, AWS, Heroku, Git/GitHub, Linux CLI
 
 ---
 
-## Tools
-
-**Operating Systems:**  
-Windows, macOS, Linux
-
-**IDEs and Source Control:**  
-Visual Studio Code, Visual Studio, IntelliJ, Git, GitHub, Homebrew, LaTeX
-
---------------------
-
 *For access to my private project repositories, please [email me](mailto:mackwessels@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
