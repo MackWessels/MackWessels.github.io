@@ -10,10 +10,10 @@ My journey began as a Computer Science student eager to understand how technolog
 
 
 **Languages:**  
-C, C++, Java, Swift, Python, SQL, JavaScript, HTML, CSS, Ruby, PHP
+C, C++, Java, Python, PHP, JavaScript, SQL, HTML, CSS, Swift, Ruby, Bash
 
 **Frameworks:**  
-React, Node.js, Ruby on Rails, Godot, MySQL, Oracle, AWS, Heroku, Linux
+React, Node.js, Ruby on Rails, MySQL, Oracle, AWS, Heroku, Git/GitHub, Linux CLI
 
 ---
 
