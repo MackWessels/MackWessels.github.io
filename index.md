@@ -40,14 +40,14 @@ Visual Studio Code, Visual Studio, IntelliJ, Git, GitHub, Homebrew, LaTeX
 ![tower defense screenshot](images/towerdefense_fig1.png)
 
 ---
-### [Sudoku | CSCI 325](sudoku_project.md)
-
-![Project 2 Thumbnail Name](images/sudoku_fig1.png)
-
----
 ### [Scheduling Algorithms  | CSCI 431](scheduling_project.md)
 
 ![Project 3 Thumbnail Name](images/schedule_fig1.JPG)
+
+---
+### [Sudoku | CSCI 325](sudoku_project.md)
+
+![Project 2 Thumbnail Name](images/sudoku_fig1.png)
 
 ---
 
