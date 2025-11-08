@@ -1,6 +1,11 @@
 # Portfolio Overview
 
-Welcome to my portfolio! This collection showcases a range of projects that demonstrate my skills in software development, web applications, and algorithmic problem-solving. My work emphasizes creating efficient, intuitive, and well-designed solutions using modern technologies.
+Welcome to my portfolio. I’m a results-driven **software developer** with a strong background in **full-stack web development**, **systems programming**, and **game design**.  
+I focus on building reliable, scalable, and user-friendly software that combines clean design with efficient logic.
+
+My experience spans technologies like **React**, **Node.js**, **MySQL**, **C**, and **Godot**, and I’m always eager to learn new tools that improve performance and usability.  
+Whether it’s optimizing a database query or designing a responsive interface, I enjoy finding practical solutions that make an impact.
+
 
 ## Featured Projects
 
@@ -16,8 +21,12 @@ A project focused on implementing and visualizing different process scheduling a
 ### 4. Sudoku Solver  
 A program that efficiently solves Sudoku puzzles using backtracking algorithms. It includes features like puzzle generation, validation, and user interaction. This project reflects my problem-solving skills and understanding of algorithmic complexity.
 
-## About Me  
+## About Me
 
-I am a software developer with a passion for building efficient and scalable applications. My projects showcase a blend of analytical problem-solving and creative design, always focusing on delivering a high-quality user experience. I thrive on tackling new challenges and continually expanding my technical knowledge.
+I earned my **B.S. in Computer Science** from **Charleston Southern University**, where I developed a strong foundation in analytical problem-solving and creative design.  
+My projects reflect a hands-on approach to software engineering—planning, coding, testing, and refining each system to deliver quality results.
 
-Feel free to explore these projects and reach out if you’re interested in collaborating or learning more about my work!
+I’m currently seeking opportunities to **build and improve software systems**, collaborate with experienced teams, and continue growing as a developer.  
+
+Feel free to explore my projects and reach out if you’d like to connect.  
+📧 [mackwessels@gmail.com](mailto:mackwessels@gmail.com) | 💻 [github.com/MackWessels](https://github.com/MackWessels) | 🌐 [mackwessels.github.io](http://mackwessels.github.io)
